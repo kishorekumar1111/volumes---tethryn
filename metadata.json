@@ -1,0 +1,8 @@
+{
+  "name": "Volumes",
+  "description": "A cinematic editorial magazine experience for memories.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
